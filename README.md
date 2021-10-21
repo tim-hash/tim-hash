@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tim-hash!
+- 👋 Hi, I’m @tim-hash. I have a new profile -> [tim-habitat](https://github.com/tim-habitat)
 - 👀 I’m interested in blockchain applications and artificial intelligence
 - 🌱 I’m currently learning smart contract development and how to solve NLP using transformer models
 - 💞️ I’m looking to collaborate on blockchain application and deep learning projects
